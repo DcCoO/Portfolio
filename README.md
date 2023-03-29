@@ -1,11 +1,21 @@
-<div id="user-content-toc"><ul><summary><h1 style="display: inline-block;">Portfolio</h1></summary></ul></div>
+```
+██████╗  █████╗ ██████╗ ████████╗███████╗ █████╗ ██╗     ██╗ █████╗ 
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║     ██║██╔══██╗
+██████╔╝██║  ██║██████╔╝   ██║   █████╗  ██║  ██║██║     ██║██║  ██║
+██╔═══╝ ██║  ██║██╔══██╗   ██║   ██╔══╝  ██║  ██║██║     ██║██║  ██║
+██║     ╚█████╔╝██║  ██║   ██║   ██║     ╚█████╔╝███████╗██║╚█████╔╝
+╚═╝      ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝      ╚════╝ ╚══════╝╚═╝ ╚════╝
+```
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-
-
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">Educational Games</h2></summary></ul></div>
+<br/>
 
 ***
+***
+***
+
+<br/>
+
+## Educational Games
 
 #### El Reino Infantil
 ###### Manifesto Games Studio
@@ -20,11 +30,13 @@
 
 <br/>
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">Hypercasual Games</h2></summary></ul></div>
-
 ***
+***
+***
+
+<br/>
+
+## Hypercasual Games
 
 #### Helicopter Hat
 ###### Javary & Lion Studios
@@ -306,11 +318,15 @@
 - Implemented scheme to place collected items in the inventory during the gameplay;
 - Updated old SDKs.
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">Major Games</h2></summary></ul></div>
+<br/>
 
 ***
+***
+***
+
+<br/>
+
+## Major Games
 
 #### MTFW
 ###### BKOM Studios
