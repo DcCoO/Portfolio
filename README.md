@@ -225,11 +225,15 @@
 - Explored mesh deformation to create trails where the cotton candy touches;
 - API integration (analytics).
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">Casual Games</h2></summary></ul></div>
+<br/>
 
 ***
+***
+***
+
+<br/>
+
+## Casual Games
 
 #### Logic Pic
 ###### Kokku & By Aliens
