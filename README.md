@@ -208,23 +208,6 @@
 
 ***
 
-#### MTFW
-###### BKOM Studios
-
-![](https://github.com/DcCoO/gifs/blob/master/maple%20%26%20the%20forest%20of%20words.gif)
-
-- Implemented several tutorial systems;
-- Implemented several mechanics, systems, skills, obstacles and enemies;
-- Big refactoring of almost all the game code to fit coding guidelines and fix problems such as too much coupling, mixing Rigidbody2D and Transform movements, calling physics functions at wrong methods, bad use of inheritance, etc.
-- Developed a lot of new modes for the game;
-- Fixed several bugs on the levels;
-- Heavily optimizing the game by activating particles only when needed, updating materials and playing with some extra configurations like quality of textures, etc.;
-- Profiling and fixing memory overflow issues;
-- Integrating art assets;
-- Developed some shaders and visual effects;
-
-***
-
 #### The Forgotten City
 ###### Kokku
 
