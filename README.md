@@ -27,20 +27,6 @@
 
 ## Hypercasual Games
 
-#### Helicopter Hat
-###### Javary & Lion Studios
-
-![](https://github.com/DcCoO/gifs/blob/master/helicopter%20hat.gif)
-
-- Developed whole game mechanics;
-- Developed level creation tool to design and export levels to the game;
-- Built two-way pool system to reconstruct the path forwards and backwards without sacrificing performance;
-- Developed all visual effects;
-- Developed level system and obstacles;
-- API integration (analytics).
-
-***
-
 #### Silhouette Art
 ###### Javary & Lion Studios
 
@@ -54,42 +40,6 @@
 
 ***
 
-#### Hotdog Runner
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/hotdog%20runner.gif)
-
-- Developed whole game mechanics;
-- Developed level system, skinned mesh renderer routines;
-- API integration (analytics).
-
-***
-
-#### Sleepover Runner
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/sleepover%20runner.gif)
-
-- Developed whole game mechanics;
-- Used splines for the path;
-- Developed shaders and visual effects;
-- API integration (analytics).
-
-***
-
-#### Assembler Run
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/assembler%20run.gif)
-
-- Developed whole game mechanics;
-- Developed path evaluation through mathematical functions;
-- Developed shaders and visual effects;
-- Developed level system and obstacles;
-- API integration (analytics).
-
-***
-
 #### Barbecue Run
 ###### Infinity Games & Voodoo
 
@@ -99,79 +49,6 @@
 - Explored use of splines for a snake-like movement and for the path;
 - Developed all visual effects;
 - Developed cameras with Cinemachine;
-- API integration (analytics).
-
-***
-
-#### Jewellery Run
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/jewellery%20run.gif)
-
-- Developed level system and obstacles;
-- Created a snake-like movement using mathematical functions;
-- Used material property blocks to optimize GPU usage for a bunch of meshes changing material properties from time to time;
-- API integration (analytics).
-
- ***
- 
-#### Neon Go
-###### Infinity Games & Homa Games
-
-![](https://github.com/DcCoO/gifs/blob/master/neon%20go.gif)
-
-- Developed whole game mechanics;
-- Developed shaders and visual effects;
-- Developed automatic level completion for level testing and video generation;
-- API integration (analytics).
-
-***
- 
-#### Stack and Fight
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/stack%20and%20fight.gif)
-
-- Developed level creation tool;
-- Developed whole game mechanics;
-- Developed level system;
-- Developed shaders and visual effects;
-- API integration (analytics).
-
-***
- 
-#### Call of Nature
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/call%20of%20nature.gif)
-
-- Developed whole game mechanics;
-- Developed level system and obstacles;
-- Developed camera schemes with Cinemachine;
-- API integration (analytics).
-
-***
- 
-#### Plant Runner
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/plant%20runner.gif)
-
-- Developed whole game mechanics;
-- Developed level system and obstacles;
-- Developed algorithm for smooth and convincing step-by-step plant growth;
-- API integration (analytics).
-
-***
- 
-#### Sorting Balls
-###### Infinity Games & Voodoo
-
-![](https://github.com/DcCoO/gifs/blob/master/sorting%20balls.gif)
-
-- Developed whole game mechanics;
-- Developed level system;
-- Developed all shaders and visual effects;
 - API integration (analytics).
 
 ***
