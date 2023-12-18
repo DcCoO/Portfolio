@@ -215,7 +215,7 @@
 
 - Heavily improving game physics performance by dividing physical events in controllers to avoid unnecessary updates;
 - Improving game's day-night cycle;
-- Fixing procedural light generation algorithm to avoid create too many lights that were causing overheads in rendering and creating some very clear areas composed by several lights very close to each other;
+- Fixing procedural light generation algorithm to prevent it from instantiating too many lights, that were causing overheads in rendering and creating some very clear areas composed by several lights very close to each other;
 - General bugfixing.
 
 ***
