@@ -7,7 +7,6 @@
 ## Educational Games
 
 #### El Reino Infantil
-###### Manifesto Games Studio
 
 ![](https://github.com/DcCoO/gifs/blob/master/el%20reino%20infantil.gif)
 
@@ -28,7 +27,6 @@
 ## Hypercasual Games
 
 #### Silhouette Art
-###### Javary & Lion Studios
 
 ![](https://github.com/DcCoO/gifs/blob/master/silhouette%20art.gif)
 
@@ -41,7 +39,6 @@
 ***
 
 #### Barbecue Run
-###### Infinity Games & Voodoo
 
 ![](https://github.com/DcCoO/gifs/blob/master/barbecue%20run.gif)
 
@@ -54,7 +51,6 @@
 ***
 
 #### Fluid Rope
-###### Infinity Games & Voodoo
 
 ![](https://github.com/DcCoO/gifs/blob/master/fluid%20rope.gif)
 
@@ -68,7 +64,6 @@
 ***
 
 #### Color Army
-###### Infinity Games & Voodoo
 
 ![](https://github.com/DcCoO/gifs/blob/master/color%20army.gif)
 
@@ -80,7 +75,6 @@
 ***
 
 #### Cotton Candy Run 3D
-###### Infinity Games & Voodoo
 
 ![](https://github.com/DcCoO/gifs/blob/master/cotton%20candy%20run.gif)
 
@@ -102,7 +96,6 @@
 ## Casual Games
 
 #### Logic Pic
-###### Kokku & By Aliens
 
 ![](https://github.com/DcCoO/gifs/blob/master/logic%20pic.gif)
 
@@ -114,7 +107,6 @@
 ***
 
 #### Chef Rescue
-###### Kokku & By Aliens
 
 ![](https://github.com/DcCoO/gifs/blob/master/chef%20rescue.gif)
 
@@ -126,7 +118,6 @@
 ***
 
 #### We Are Illuminati
-###### Kokku & By Aliens
 
 ![](https://github.com/DcCoO/gifs/blob/master/we%20are%20illuminati.gif)
 
@@ -141,7 +132,6 @@
 ***
 
 #### Cookie Jam
-###### Manifesto Games Studio
 
 ![](https://github.com/DcCoO/gifs/blob/master/cookie%20jam.gif)
 
@@ -153,7 +143,6 @@
 ***
 
 #### 2 Player Games
-###### Jungle Frog
 
 ![](https://github.com/DcCoO/gifs/blob/master/2%20player%20games.gif)
 
@@ -166,7 +155,6 @@
 ***
 
 #### 4 Player Games
-###### Jungle Frog
 
 ![](https://github.com/DcCoO/gifs/blob/master/4%20player%20games.gif)
 
@@ -179,7 +167,6 @@
 ***
 
 #### Overloot
-###### BKOM Studios
 
 ![](https://github.com/DcCoO/gifs/blob/master/overloot.gif)
 
@@ -199,7 +186,6 @@
 ## Major Games
 
 #### Growtopia
-###### Manifesto Games Studio & Ubisoft
 
 ![](https://github.com/DcCoO/gifs/blob/master/growtopia.gif)
 
@@ -209,7 +195,6 @@
 ***
 
 #### The Forgotten City
-###### Kokku
 
 ![](https://github.com/DcCoO/gifs/blob/master/the%20forgotten%20city.gif)
 
@@ -221,7 +206,6 @@
 ***
 
 #### Zorro The Chronicles
-###### BKOM Studios
 
 ![](https://github.com/DcCoO/gifs/blob/master/zorro%20the%20chronicles.gif)
 
@@ -238,7 +222,6 @@
 ***
 
 #### Tetris
-###### N3TWORK Studios & Playstudios
 
 ![](https://github.com/DcCoO/gifs/blob/master/tetris.gif)
 
