@@ -1,4 +1,4 @@
-![Portfolio](https://user-images.githubusercontent.com/23059224/228723005-e23f2dce-db78-4a8d-85c4-f1bb63a84b8c.png)
+CV [here](https://docs.google.com/document/d/17StDP6N8zhN9a_40dczw8Xtp7pzkNNgq35rrjKwaTqA).
 
 
 <br/>
